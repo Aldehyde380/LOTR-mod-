@@ -1,5 +1,12 @@
 [
-
+	{
+		"name": "Hands of the King",
+		"uniques": ["Heal this unit by [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
+	},
+	{
+		"name": "Forth Eolingas!",
+		"uniques": ["Heal this unit by [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
+	},
 	{
 		"name": "Heal Instantly",
 		"uniques": ["Heal this unit by [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
